@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "//solovpro.github.io/weather/static/css/main.b5d2163e.chunk.css",
-    "main.js": "//solovpro.github.io/weather/static/js/main.02529cb5.chunk.js",
-    "main.js.map": "//solovpro.github.io/weather/static/js/main.02529cb5.chunk.js.map",
+    "main.css": "//solovpro.github.io/weather/static/css/main.e97b053f.chunk.css",
+    "main.js": "//solovpro.github.io/weather/static/js/main.5201274c.chunk.js",
+    "main.js.map": "//solovpro.github.io/weather/static/js/main.5201274c.chunk.js.map",
     "runtime-main.js": "//solovpro.github.io/weather/static/js/runtime-main.5f8799bb.js",
     "runtime-main.js.map": "//solovpro.github.io/weather/static/js/runtime-main.5f8799bb.js.map",
     "static/css/2.fb17aa6d.chunk.css": "//solovpro.github.io/weather/static/css/2.fb17aa6d.chunk.css",
-    "static/js/2.935b1d39.chunk.js": "//solovpro.github.io/weather/static/js/2.935b1d39.chunk.js",
-    "static/js/2.935b1d39.chunk.js.map": "//solovpro.github.io/weather/static/js/2.935b1d39.chunk.js.map",
+    "static/js/2.29aaeb2a.chunk.js": "//solovpro.github.io/weather/static/js/2.29aaeb2a.chunk.js",
+    "static/js/2.29aaeb2a.chunk.js.map": "//solovpro.github.io/weather/static/js/2.29aaeb2a.chunk.js.map",
     "static/js/3.ca6273b6.chunk.js": "//solovpro.github.io/weather/static/js/3.ca6273b6.chunk.js",
     "static/js/3.ca6273b6.chunk.js.map": "//solovpro.github.io/weather/static/js/3.ca6273b6.chunk.js.map",
     "index.html": "//solovpro.github.io/weather/index.html",
     "static/css/2.fb17aa6d.chunk.css.map": "//solovpro.github.io/weather/static/css/2.fb17aa6d.chunk.css.map",
-    "static/css/main.b5d2163e.chunk.css.map": "//solovpro.github.io/weather/static/css/main.b5d2163e.chunk.css.map",
-    "static/js/2.935b1d39.chunk.js.LICENSE.txt": "//solovpro.github.io/weather/static/js/2.935b1d39.chunk.js.LICENSE.txt"
+    "static/css/main.e97b053f.chunk.css.map": "//solovpro.github.io/weather/static/css/main.e97b053f.chunk.css.map",
+    "static/js/2.29aaeb2a.chunk.js.LICENSE.txt": "//solovpro.github.io/weather/static/js/2.29aaeb2a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5f8799bb.js",
     "static/css/2.fb17aa6d.chunk.css",
-    "static/js/2.935b1d39.chunk.js",
-    "static/css/main.b5d2163e.chunk.css",
-    "static/js/main.02529cb5.chunk.js"
+    "static/js/2.29aaeb2a.chunk.js",
+    "static/css/main.e97b053f.chunk.css",
+    "static/js/main.5201274c.chunk.js"
   ]
 }
