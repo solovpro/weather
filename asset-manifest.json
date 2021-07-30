@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "//solovpro.github.io/weather/static/css/main.e9790527.chunk.css",
+    "main.css": "//solovpro.github.io/weather/static/css/main.ee8e49b6.chunk.css",
     "main.js": "//solovpro.github.io/weather/static/js/main.5051aa9f.chunk.js",
     "main.js.map": "//solovpro.github.io/weather/static/js/main.5051aa9f.chunk.js.map",
     "runtime-main.js": "//solovpro.github.io/weather/static/js/runtime-main.5f8799bb.js",
@@ -12,14 +12,14 @@
     "static/js/3.ca6273b6.chunk.js.map": "//solovpro.github.io/weather/static/js/3.ca6273b6.chunk.js.map",
     "index.html": "//solovpro.github.io/weather/index.html",
     "static/css/2.fb17aa6d.chunk.css.map": "//solovpro.github.io/weather/static/css/2.fb17aa6d.chunk.css.map",
-    "static/css/main.e9790527.chunk.css.map": "//solovpro.github.io/weather/static/css/main.e9790527.chunk.css.map",
+    "static/css/main.ee8e49b6.chunk.css.map": "//solovpro.github.io/weather/static/css/main.ee8e49b6.chunk.css.map",
     "static/js/2.935b1d39.chunk.js.LICENSE.txt": "//solovpro.github.io/weather/static/js/2.935b1d39.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5f8799bb.js",
     "static/css/2.fb17aa6d.chunk.css",
     "static/js/2.935b1d39.chunk.js",
-    "static/css/main.e9790527.chunk.css",
+    "static/css/main.ee8e49b6.chunk.css",
     "static/js/main.5051aa9f.chunk.js"
   ]
 }
