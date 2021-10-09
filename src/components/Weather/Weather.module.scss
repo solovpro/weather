@@ -1,0 +1,24 @@
+.weather {
+  margin: 45px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #0dcaf0;
+  .params {
+    margin: 0 0 0 10px;
+    @media (max-width: 767px) {
+      margin: 0 0 0 -2px;
+
+    }
+  }
+  .error {
+    color: #DC143C;
+    font-size: 22px;
+    @media (max-width: 1024px) {
+      font-size: 17px;
+    }
+    @media (max-width: 767px) {
+      font-size: 13px;
+    }
+  }
+}

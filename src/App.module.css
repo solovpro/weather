@@ -1,0 +1,129 @@
+.app {
+  background: #020024;
+  background: -webkit-gradient(linear, left top, right top, from(#020024), color-stop(20%, #121234), to(#00d4ff));
+  background: linear-gradient(90deg, #020024 0%, #121234 20%, #00d4ff 100%);
+  height: 839px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: white;
+  margin: -90px 0 0 0;
+}
+
+.container {
+  background-color: #121234;
+  width: 700px;
+  height: 500px;
+  border-radius: 20px;
+  border: 4px solid #000;
+}
+@media (max-width: 1024px) {
+  .container {
+    height: 450px;
+    width: 600px;
+  }
+}
+@media (max-width: 767px) {
+  .container {
+    height: 450px;
+    width: 400px;
+    margin: -100px 0 0 0;
+  }
+}
+@media (max-width: 450px) {
+  .container {
+    width: 315px;
+    margin: 10px;
+  }
+}
+
+.name {
+  font-family: "Times New Roman";
+  font-style: italic;
+  font-size: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #0dcaf0;
+}
+@media (max-width: 450px) {
+  .name {
+    font-size: 22px;
+  }
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+@media (max-width: 1024px) {
+  .row {
+    margin: -35px 0 0 7px;
+  }
+}
+@media (max-width: 767px) {
+  .row {
+    margin: -70px 0 0 10px;
+  }
+}
+
+.info {
+  background-size: 20px 150px;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url(https://proza.ru/pics/2017/03/30/816.jpg) no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(https://proza.ru/pics/2017/03/30/816.jpg) no-repeat;
+  /*https://avatars.mds.yandex.net/get-zen_doc/3853921/pub_5fc9bdcb6bcad04cbc00cb01_5fca3920788eda75c746965c/scale_1200*/
+  height: 264px;
+  width: 400px;
+  color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  margin: 100px 7px 0 7px;
+  border-radius: 10px;
+}
+@media (max-width: 767px) {
+  .info {
+    background-size: 250px 250px;
+    height: 200px;
+    margin: 170px 10px 0 0;
+    font-size: 12px;
+  }
+}
+@media (max-width: 450px) {
+  .info {
+    font-size: 10px;
+  }
+}
+
+.formWeather {
+  margin: 200px 0 0 0;
+}
+@media (max-width: 450px) {
+  .formWeather {
+    font-size: 12px;
+  }
+}
+
+:active, :hover, :focus {
+  outline: 0;
+  outline-offset: 0;
+}

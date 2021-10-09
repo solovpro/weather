@@ -1,0 +1,35 @@
+.weather {
+  margin: 45px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: #0dcaf0;
+}
+.weather .params {
+  margin: 0 0 0 10px;
+}
+@media (max-width: 767px) {
+  .weather .params {
+    margin: 0 0 0 -2px;
+  }
+}
+.weather .error {
+  color: #DC143C;
+  font-size: 22px;
+}
+@media (max-width: 1024px) {
+  .weather .error {
+    font-size: 17px;
+  }
+}
+@media (max-width: 767px) {
+  .weather .error {
+    font-size: 13px;
+  }
+}
